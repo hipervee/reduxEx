@@ -1,0 +1,9 @@
+{
+  "heroes": [
+    {
+      "id": 2,
+      "name": "Doctor Strange",
+      "rating": 5
+    }
+  ]
+}
